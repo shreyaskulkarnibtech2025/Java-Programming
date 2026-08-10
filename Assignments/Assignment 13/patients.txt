@@ -1,0 +1,2 @@
+P-201 | Name: John Doe | Age: 45 | Diagnosis: Flu
+P-202 | Name: Emma Watson | Age: 30 | Diagnosis: Allergy
